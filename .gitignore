@@ -1,4 +1,5 @@
 *.iml
 .gradle
-/kotlin/out/
-/kotlin/.idea/
+/kotlin/out
+/kotlin/.idea
+*.exe
