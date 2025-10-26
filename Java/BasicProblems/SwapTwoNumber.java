@@ -1,3 +1,4 @@
+// A simple Java program to swap two numbers
 public class SwapTwoNumber {
     public static void main(String[] args) {
         int a = 5; // You can change this value to test other numbers

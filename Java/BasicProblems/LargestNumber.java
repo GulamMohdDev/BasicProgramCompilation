@@ -1,3 +1,4 @@
+// A simple Java program to find the largest number among ten user-inputted numbers
 import java.util.Scanner;
 
 public class LargestNumber {

@@ -1,3 +1,4 @@
+// A simple Java program to print the Fibonacci series up to a specified number of terms
 import java.util.Scanner;
 
 public class FibonacciSeries {

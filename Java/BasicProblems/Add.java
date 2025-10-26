@@ -1,3 +1,4 @@
+// A simple Java program to add two numbers and print the result
 class Add{
     public static void main(String[] args) {
         int a = 10;

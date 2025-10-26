@@ -1,4 +1,4 @@
-//Factorial Number
+// A simple Java program to compute the factorial of a number using both iterative and recursive methods
 
 import java.util.Scanner;
 
