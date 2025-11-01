@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StringTokenizer",
+            "request": "launch",
+            "mainClass": "StringTokenizer",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "VectorExample",
+            "request": "launch",
+            "mainClass": "VectorExample",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "Array3D",
+            "request": "launch",
+            "mainClass": "Array3D",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "Array2D",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AccessSpecifier",
+            "request": "launch",
+            "mainClass": "AccessSpecifier",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "CommandLineArgs",
+            "request": "launch",
+            "mainClass": "CommandLineArgs",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfEquilateralTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfEquilateralTriangle",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfHeptagon",
+            "request": "launch",
+            "mainClass": "AreaOfHeptagon",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfHexagon",
+            "request": "launch",
+            "mainClass": "AreaOfHexagon",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfOctagon",
+            "request": "launch",
+            "mainClass": "AreaOfOctagon",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfPentagon",
+            "request": "launch",
+            "mainClass": "AreaOfPentagon",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfRhombus",
+            "request": "launch",
+            "mainClass": "AreaOfRhombus",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfSqure",
+            "request": "launch",
+            "mainClass": "AreaOfSqure",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfTrapezoid",
+            "request": "launch",
+            "mainClass": "AreaOfTrapezoid",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfTriangle",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "AutomorphicNumber",
+            "request": "launch",
+            "mainClass": "AutomorphicNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusToFahrenheit",
+            "request": "launch",
+            "mainClass": "CelsiusToFahrenheit",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "CircumferenceOfCircle",
+            "request": "launch",
+            "mainClass": "CircumferenceOfCircle",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "CoundDigitInNumber",
+            "request": "launch",
+            "mainClass": "CoundDigitInNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "FactorialNumber",
+            "request": "launch",
+            "mainClass": "FactorialNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "FactorialOfEachNumber",
+            "request": "launch",
+            "mainClass": "FactorialOfEachNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "FahrenheitToCelsius",
+            "request": "launch",
+            "mainClass": "FahrenheitToCelsius",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "FloydTriangle",
+            "request": "launch",
+            "mainClass": "FloydTriangle",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "HCF_GCD",
+            "request": "launch",
+            "mainClass": "HCF_GCD",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "MinMaxFromArray",
+            "request": "launch",
+            "mainClass": "MinMaxFromArray",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "NeonNumber",
+            "request": "launch",
+            "mainClass": "NeonNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "PaindromNumber",
+            "request": "launch",
+            "mainClass": "PaindromNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "PalindromString",
+            "request": "launch",
+            "mainClass": "PalindromString",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "PascalTriangle",
+            "request": "launch",
+            "mainClass": "PascalTriangle",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfGevenNumber",
+            "request": "launch",
+            "mainClass": "PowerOfGevenNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "RandomNumberGenerator",
+            "request": "launch",
+            "mainClass": "RandomNumberGenerator",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "SpyNumber",
+            "request": "launch",
+            "mainClass": "SpyNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "StrongNumber",
+            "request": "launch",
+            "mainClass": "StrongNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "SuperDigit",
+            "request": "launch",
+            "mainClass": "SuperDigit",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoNumber",
+            "request": "launch",
+            "mainClass": "SwapTwoNumber",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoNumberWithoutThirdVar",
+            "request": "launch",
+            "mainClass": "SwapTwoNumberWithoutThirdVar",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "ValumeOfCone",
+            "request": "launch",
+            "mainClass": "ValumeOfCone",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "ValumeOfCuboid",
+            "request": "launch",
+            "mainClass": "ValumeOfCuboid",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "ValumeOfHemisphere",
+            "request": "launch",
+            "mainClass": "ValumeOfHemisphere",
+            "projectName": "Java_811a072d"
+        },
+        {
+            "type": "java",
+            "name": "ValumeOfSphere",
+            "request": "launch",
+            "mainClass": "ValumeOfSphere",
+            "projectName": "Java_811a072d"
+        }
+    ]
+}
